@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-  <img src="./src/assets/maisTodos.gif"><br> 
+  <img src="./src/assets/maisTodos.gif" width="300px"><br> 
 </h1>
 
 ## 💻 Sobre o projeto
